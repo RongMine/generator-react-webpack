@@ -22,7 +22,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/RongMine/generator-react-webpack.git"
+    "url": "https://github.com/RongMine/generator-react-webpack"
   },
   "publishConfig":{
     "registry":"http://registry.npmjs.org"
