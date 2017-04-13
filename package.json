@@ -1,0 +1,23 @@
+{
+  "name": "generator-react-with-webpack",
+  "version": "1.0.0",
+  "description": "a frame for webpack width react",
+  "main": "index.js",
+  "files": [
+    "app"
+  ],
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "rongmine",
+  "license": "ISC",
+  "dependencies": {
+    "yeoman-generator": "^1.1.1"
+  },
+  "publishConfig":{
+    "registry":"http://registry.npmjs.org"
+  }
+}

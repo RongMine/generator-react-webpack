@@ -1,0 +1,13 @@
+{
+  "name": "name",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "webpack": "./node_modules/.bin/webpack",
+    "webpack-production": "./node_modules/.bin/webpack -p",
+    "server": "./node_modules/.bin/webpack-dev-server"
+  },
+  "author": "rong",
+  "license": "ISC"
+}
