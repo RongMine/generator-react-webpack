@@ -1,6 +1,6 @@
 {
   "name": "generator-react-with-webpack",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "a frame for webpack width react",
   "main": "index.js",
   "files": [
@@ -16,6 +16,10 @@
   "license": "ISC",
   "dependencies": {
     "yeoman-generator": "^1.1.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/RongMine/generator-react-webpack.git"
   },
   "publishConfig":{
     "registry":"http://registry.npmjs.org"
