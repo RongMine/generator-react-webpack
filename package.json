@@ -1,6 +1,6 @@
 {
   "name": "generator-react-with-webpack",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "a frame for webpack width react",
   "main": "index.js",
   "files": [
@@ -13,6 +13,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "rongmine",
+  "email":"120491428@qq.com",
   "license": "ISC",
   "dependencies": {
     "yeoman-generator": "^1.1.1"
