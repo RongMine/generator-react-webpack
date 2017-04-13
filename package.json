@@ -1,6 +1,6 @@
 {
   "name": "generator-react-with-webpack",
-  "version": "1.0.4",
+  "version": "1.0.6",
   "description": "a frame for webpack width react",
   "main": "index.js",
   "files": [
