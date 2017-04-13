@@ -1,13 +1,15 @@
 {
   "name": "generator-react-with-webpack",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "a frame for webpack width react",
   "main": "index.js",
   "files": [
     "app"
   ],
   "keywords": [
-    "yeoman-generator"
+    "yeoman-generator",
+    "webpack",
+    "react"
   ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
