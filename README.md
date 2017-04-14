@@ -1,5 +1,4 @@
-# generator-react-webpack
-a frame for webpack width react
+# a frame for webpack width react
 
 - Step
   - $ npm install -g yo
